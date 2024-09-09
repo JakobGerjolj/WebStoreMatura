@@ -1,0 +1,2 @@
+-preverjanje duplikatov pri registraciji
+-identifikacija spletne strani od vsakega uporabnika
